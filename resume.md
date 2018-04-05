@@ -4,21 +4,27 @@ farmera@oregonstate.edu
 
 # Summary
 
-Student learning the ropes of GitHub
+Aspiring geograhper
 
 ## Work Experience in the last 10 years
 
 Sewing machine repair assistant for [Stagecoach Road Vintage Sewing Machine](https://www.facebook.com/StagecoachRoadSewing/) 
-*cleaned machines of dirt, grime, oil
-*polished machines to near-new levels of shine
-*photographed machines for display on internet store
+
+- *cleaned machines of dirt, grime, oil*
+
+- *polished machines to near-new levels of shine*
+
+- *photographed machines for display on internet store*
 
 Library assistant at [Oregon State University](https://library.oregonstate.edu)
-*shelving
-*request fulfillment 
-*returns processing
-*electronic resources
-*InterLibrary Loan 
+
+- *shelving*
+
+- *request fulfillment*
+
+- *returns processing*
+
+- *electronic resources*
 
 ### University
 
