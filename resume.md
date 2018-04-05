@@ -1,53 +1,38 @@
-```
 # Aradia Farmer
 
 farmera@oregonstate.edu
 
 # Summary
 
-Aspiring geographer
+Student learning the ropes of GitHub
 
-# library assistant 
+## Work Experience in the last 10 years
 
-## Oregon State University
+Sewing machine repair assistant for [Stagecoach Road Vintage Sewing Machine](https://www.facebook.com/StagecoachRoadSewing/) 
+*cleaned machines of dirt, grime, oil
+*polished machines to near-new levels of shine
+*photographed machines for display on internet store
 
-* [University 1][] description, particularly if not well-known.*
+Library assistant at [Oregon State University](https://library.oregonstate.edu)
+*shelving
+*request fulfillment 
+*returns processing
+*electronic resources
+*InterLibrary Loan 
 
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
+### University
 
-Summary of your role
+* [Oregon State University][https://oregonstate.edu]*
+![OSU logo](http://communications.oregonstate.edu/sites/communications.oregonstate.edu/files/screen_shot_2017-04-21_at_4.23.07_pm.png)
+** undergraduate** (2016 - present)
 
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
+Coursework completed so far:
 
-## University Name 2 (City, State)
-*[University 2][] description, particularly if not well-known.*
+- **associates degree from the local community college**
+- *minor in geology*
+- introductory GIS courses
+- American Sign Language (2 terms)
 
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
-
-Summary of your role
-
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
-
-## University Name 3 (City, State)
-* [University 3][] description, particularly if not well-known.*
-
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
-
-Summary of your role
-
-- Accomplishment
-- Accomplishment
-- Accomplishment
-- Accomplishment
-
-
-[University 1]: http://www.univ1.edu
-[University 2]: http://www.univ2.edu
-[University 3]: http://www.univ3.edu
-```
+#### Favorite quote
+Carl Sagan:
+> Somewhere, something wonderful is waiting to be known
