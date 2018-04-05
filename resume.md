@@ -5,7 +5,7 @@ farmera@oregonstate.edu
 
 # Summary
 
-Student learning the ropes of GitHub
+Aspiring geographer
 
 # library assistant 
 
