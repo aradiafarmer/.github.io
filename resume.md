@@ -4,7 +4,7 @@ farmera@oregonstate.edu
 
 # Summary
 
-Aspiring geographer, with a minor in geology. Fascinated by the **Cascadia Subduction Zone**
+Aspiring geographer, with a minor in geology. Fascinated by the Cascadia Subduction Zone
 
 ## Work Experience
 
