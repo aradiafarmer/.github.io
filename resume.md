@@ -27,7 +27,8 @@ Collection Mangagment | Interlibrary Loan
 
 * [Oregon State University](https://oregonstate.edu)
 
-![OSU logo](http://communications.oregonstate.edu/sites/communications.oregonstate.edu/files/screen_shot_2017-04-21_at_4.23.07_pm.png)
+
+<img src="http://communications.oregonstate.edu/sites/communications.oregonstate.edu/files/screen_shot_2017-04-21_at_4.23.07_pm.png" width="200">
 
 ### **undergraduate** (2016 - present)
 
